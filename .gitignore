@@ -16,7 +16,6 @@ docs/
 /broadcast
 promise.md
 lcov.info
-/src/PriceConverter.sol
 /src/SimpleStorage.sol
 /script/DeploySimpleStorage.s.sol
 Makefile
